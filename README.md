@@ -1,4 +1,16 @@
-### Hi there 👋
+### Hi there, I am Shubham Jain.
+
+* #### I am a passionate web developer, eager to learn and work on any language or technology related to web.
+
+* I'm currently working on projects related to reactJS and Django. Also, I have started learning flutter recently.
+
+* I'm looking to collaborate on some exciting projects and have some valuable contribution to the community.
+
+* **📫 How to reach me:**
+  * Email - jains1801@gmail.com
+  * Portfolio - [theshubhamjain.co](https://theshubhamjain.co/)
+  * LinkedIn - [@jains1801](https://www.linkedin.com/in/jains1801/)
+  * Twitter - [@jains1801](https://twitter.com/jains1801)
 
 <!--
 **shubhamjain2998/shubhamjain2998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
